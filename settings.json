@@ -13,10 +13,12 @@
     "vsicons.projectDetection.autoReload": true,
     "editor.formatOnSave": true,
     "extension-manager.extensions": [
+        "JakeWilson.vscode-cdnjs",
         "abusaidm.html-snippets",
         "aeschli.vscode-css-formatter",
-        "AESSoft.aessoft-class-autocomplete",
+        "Zignd.html-css-class-completion",
         "annsk.alignment",
+        "davidmart.theme-jsfiddle-like-syntax-vscode",
         "benjaminromano.typings-installer",
         "capaj.vscode-standardjs-snippets",
         "chenxsan.vscode-standard-format",
@@ -38,7 +40,7 @@
         "pranaygp.vscode-css-peek",
         "robertohuertasm.vscode-icons",
         "seanwash.vue",
-        "searKing.preview-vscode",
+        "hdg.live-html-previewer",
         "sensourceinc.require-complete",
         "sidthesloth.html5-boilerplate",
         "SirTori.indenticator",
@@ -54,5 +56,7 @@
     "vsicons.presets.angular": false,
     "window.zoomLevel": 1,
     "workbench.editor.tabCloseButton": "off",
-    "files.associations": {}
+    "files.associations": {},
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "typescriptHero.resolver.insertSemicolons": false
 }
