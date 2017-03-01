@@ -1,0 +1,41 @@
+﻿$extensions = @(
+    "JakeWilson.vscode-cdnjs",
+    "abusaidm.html-snippets",
+    "aeschli.vscode-css-formatter",
+    "Zignd.html-css-class-completion",
+    "annsk.alignment",
+    "davidmart.theme-jsfiddle-like-syntax-vscode",
+    "benjaminromano.typings-installer",
+    "capaj.vscode-standardjs-snippets",
+    "chenxsan.vscode-standard-format",
+    "chenxsan.vscode-standardjs",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "donjayamanne.jquerysnippets",
+    "eg2.vscode-npm-script",
+    "fknop.vscode-npm",
+    "GregorBiswanger.package-watcher",
+    "hollowtree.vue-snippets",
+    "HookyQR.beautify",
+    "jvitor83.typings-autoinstaller",
+    "lihui.vs-color-picker",
+    "liuji-jim.vue",
+    "naumovs.node-modules-resolve",
+    "octref.vetur",
+    "pmneo.tsimporter",
+    "pranaygp.vscode-css-peek",
+    "robertohuertasm.vscode-icons",
+    "seanwash.vue",
+    "hdg.live-html-previewer",
+    "sensourceinc.require-complete",
+    "sidthesloth.html5-boilerplate",
+    "SirTori.indenticator",
+    "spywhere.guides",
+    "typings.vscode-typings",
+    "webstp.extension-manager",
+    "xabikos.JavaScriptSnippets"
+)
+
+foreach($ext in $extensions){
+    code --install-extension $ext
+}
