@@ -5,4 +5,6 @@ Windows %APPDATA%\Code\User\settings.json
 Mac $HOME/Library/Application Support/Code/User/settings.json
 Linux $HOME/.config/Code/User/settings.json
 
-92cb83d640887353a1506d155757719ff65ec25991ae
+GITHUB TOKEN: 92cb83d640887353ad155757719ff65ec25991ae
+GITHUB GIST: 9a5fce821a2f8eb5e81b094e6728226b
+GITHUB GIST TYPE: Secret
