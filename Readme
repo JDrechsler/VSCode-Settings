@@ -4,10 +4,3 @@ Depending on your platform, the user settings file is located here:
 Windows %APPDATA%\Code\User\settings.json
 Mac $HOME/Library/Application Support/Code/User/settings.json
 Linux $HOME/.config/Code/User/settings.json
-
-Upload Summary
-
---------------------
-GITHUB TOKEN: 7b2aee9e1adfd2a1ecdd7d978eb042b74b59c6151506
-GITHUB GIST: b414852cc59a9c5c5b8b149f248bd39a1506
-GITHUB GIST TYPE: Secret
