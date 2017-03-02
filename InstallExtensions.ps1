@@ -21,7 +21,6 @@
     "robertohuertasm.vscode-icons",
     "seanwash.vue",
     "sensourceinc.require-complete",
-    "SirTori.indenticator",
     "spywhere.guides",
     "Zignd.html-css-class-completion"
 )
