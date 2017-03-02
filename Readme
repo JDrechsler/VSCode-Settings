@@ -5,4 +5,7 @@ Windows %APPDATA%\Code\User\settings.json
 Mac $HOME/Library/Application Support/Code/User/settings.json
 Linux $HOME/.config/Code/User/settings.json
 
+code --list-extensions
+code --install-extensions
+
 http://sortmylist.com/
