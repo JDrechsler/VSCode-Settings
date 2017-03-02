@@ -26,5 +26,6 @@
     "editor.minimap.renderCharacters": true,
     "editor.dragAndDrop": true,
     "editor.formatOnType": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "guides.active.enabled": false
 }
