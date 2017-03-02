@@ -22,7 +22,9 @@
     "git.enabled": false,
     "workbench.colorTheme": "JSFiddle-like-syntax-vscode",
     "workbench.iconTheme": "vscode-icons",
-    "editor.minimap.enabled": true,
+    "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": true,
-    "editor.dragAndDrop": true
+    "editor.dragAndDrop": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true
 }
