@@ -3,8 +3,6 @@
     "aeschli.vscode-css-formatter",
     "annsk.alignment",
     "capaj.vscode-standardjs-snippets",
-    "chenxsan.vscode-standard-format",
-    "chenxsan.vscode-standardjs",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "davidmart.theme-jsfiddle-like-syntax-vscode",
