@@ -16,7 +16,12 @@
     "vsicons.presets.angular": false,
     "window.zoomLevel": 1,
     "workbench.editor.tabCloseButton": "off",
-    "files.associations": {},
+    "files.associations": {
+        // extension name : html
+        "*.ejs": "html",
+        "*.js": "html",
+        "*.vue": "html"
+    },
     "typescript.useCodeSnippetsOnMethodSuggest": true,
     "git.countBadge": "off",
     "git.enabled": false,
