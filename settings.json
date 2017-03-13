@@ -15,6 +15,10 @@
     "typescript.check.tscVersion": true,
     "vsicons.presets.angular": false,
     "window.zoomLevel": 1,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.useTabStops": true,
+    "editor.detectIndentation": false,
     "workbench.editor.tabCloseButton": "off",
     "files.associations": {
         // extension name : html
