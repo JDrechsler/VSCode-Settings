@@ -9,7 +9,7 @@ eg2.vscode-npm-script
 fknop.vscode-npm
 GregorBiswanger.package-watcher
 hdg.live-html-previewer
-hollowtree.vue-snippets
+oysun.vuehelper
 JakeWilson.vscode-cdnjs
 lihui.vs-color-picker
 liuji-jim.vue
