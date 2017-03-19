@@ -18,4 +18,5 @@ pranaygp.vscode-css-peek
 robertohuertasm.vscode-icons
 sensourceinc.require-complete
 spywhere.guides
+WallabyJs.quokka-vscode
 Zignd.html-css-class-completion
