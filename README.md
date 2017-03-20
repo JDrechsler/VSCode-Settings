@@ -19,7 +19,7 @@ code --install-extension
 
 [SortList] - Sort your lists online!
 
-Update npm dependencies:
+## Update npm dependencies:
 ```sh
 npm i -g npm-check-updates
 npm-check-updates -u | ncu -u
