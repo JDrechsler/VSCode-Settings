@@ -5,6 +5,13 @@ Windows %APPDATA%\Code\User\settings.json
 Mac $HOME/Library/Application Support/Code/User/settings.json
 Linux $HOME/.config/Code/User/settings.json
 
+Extensions
+VS Code looks for extensions under your extensions folder .vscode/extensions. Depending on your platform it is located in the following folders:
+
+Windows %USERPROFILE%\.vscode\extensions
+Mac ~/.vscode/extensions
+Linux ~/.vscode/extensions
+
 code --list-extensions
 code --install-extension
 
