@@ -5,14 +5,14 @@ davidmart.theme-jsfiddle-like-syntax-vscode
 eg2.vscode-npm-script
 gegeke.node-modules-navigation
 hdg.live-html-previewer
+JakeWilson.vscode-cdnjs
 kevinmcgowan.TypeScriptImport
 leizongmin.node-module-intellisense
-oysun.vuehelper
-JakeWilson.vscode-cdnjs
 lihui.vs-color-picker
 liuji-jim.vue
 naumovs.node-modules-resolve
 octref.vetur
+oysun.vuehelper
 pranaygp.vscode-css-peek
 robertohuertasm.vscode-icons
 spywhere.guides
