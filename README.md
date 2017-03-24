@@ -18,6 +18,7 @@ code --install-extension
 ```
 
 [SortList] - Sort your lists online!
+[Quickdiff] - Quick Diff Online Tool
 
 ## Update npm dependencies:
 ```sh
@@ -27,3 +28,4 @@ npm install
 ```
 
 [SortList]: <http://sortmylist.com/>
+[Quickdiff]: <http://www.quickdiff.com/>
