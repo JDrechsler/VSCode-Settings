@@ -1,13 +1,12 @@
 abusaidm.html-snippets
-aeschli.vscode-css-formatter
-annsk.alignment
+brpaz.file-templates
 capaj.vscode-standardjs-snippets
-christian-kohler.npm-intellisense
-christian-kohler.path-intellisense
 davidmart.theme-jsfiddle-like-syntax-vscode
 eg2.vscode-npm-script
-GregorBiswanger.package-watcher
+gegeke.node-modules-navigation
 hdg.live-html-previewer
+kevinmcgowan.TypeScriptImport
+leizongmin.node-module-intellisense
 oysun.vuehelper
 JakeWilson.vscode-cdnjs
 lihui.vs-color-picker
@@ -16,7 +15,6 @@ naumovs.node-modules-resolve
 octref.vetur
 pranaygp.vscode-css-peek
 robertohuertasm.vscode-icons
-sensourceinc.require-complete
 spywhere.guides
 WallabyJs.quokka-vscode
 Zignd.html-css-class-completion
