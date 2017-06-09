@@ -13,8 +13,9 @@ liuji-jim.vue
 naumovs.node-modules-resolve
 octref.vetur
 oysun.vuehelper
+plievone.vscode-template-literal-editor
+pmneo.tsimporter
 pranaygp.vscode-css-peek
 robertohuertasm.vscode-icons
-spywhere.guides
 WallabyJs.quokka-vscode
 Zignd.html-css-class-completion
