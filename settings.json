@@ -1,5 +1,6 @@
 {
 	"css.validate": false,
+	"editor.autoIndent": true,
 	"editor.find.autoFindInSelection": true,
 	"editor.detectIndentation": false,
 	"editor.dragAndDrop": true,
@@ -19,10 +20,15 @@
 	"editor.useTabStops": true,
 	"editor.wordWrap": "off",
 	"emmet.showAbbreviationSuggestions": true,
-	"emmet.showExpandedAbbreviation": true,
+	"emmet.showExpandedAbbreviation": "always",
 	"emmet.syntaxProfiles": {
 		"vue-html": "html",
 		"vue": "html"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"vue-html": "html",
+		"plaintext": "jade"
 	},
 	"emmet.useNewEmmet": true,
 	"extensions.autoUpdate": true,
