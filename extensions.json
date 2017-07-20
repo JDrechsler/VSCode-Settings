@@ -1,0 +1,25 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"capaj.vscode-standardjs-snippets",
+		"davidmart.theme-jsfiddle-like-syntax-vscode",
+		"eg2.vscode-npm-script",
+		"gegeke.node-modules-navigation",
+		"hdg.live-html-previewer",
+		"JakeWilson.vscode-cdnjs",
+		"kevinmcgowan.TypeScriptImport",
+		"leizongmin.node-module-intellisense",
+		"lihui.vs-color-picker",
+		"naumovs.node-modules-resolve",
+		"octref.vetur",
+		"oysun.vuehelper",
+		"plievone.vscode-template-literal-editor",
+		"pmneo.tsimporter",
+		"pranaygp.vscode-css-peek",
+		"robertohuertasm.vscode-icons",
+		"WallabyJs.quokka-vscode",
+		"wgenial.html-snippets"
+	]
+}
