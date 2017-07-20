@@ -28,15 +28,11 @@
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact",
 		"vue-html": "html",
+		"vue": "html",
 		"plaintext": "jade"
 	},
-	"emmet.useNewEmmet": true,
+	"emmet.useNewEmmet": false,
 	"extensions.autoUpdate": true,
-	"files.associations": {
-		"*.ejs": "html",
-		"*.vue": "html",
-		"*.yml": "yaml"
-	},
 	"files.autoSave": "off",
 	"git.confirmSync": false,
 	"git.countBadge": "off",
@@ -61,5 +57,6 @@
 	"workbench.colorTheme": "JSFiddle-like-syntax-vscode",
 	"workbench.editor.tabCloseButton": "off",
 	"workbench.iconTheme": "vscode-icons",
-	"vsicons.dontShowNewVersionMessage": true
+	"vsicons.dontShowNewVersionMessage": true,
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\cmd.exe"
 }
