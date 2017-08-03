@@ -9,5 +9,13 @@
 		"key": "ctrl+d",
 		"command": "editor.action.copyLinesDownAction",
 		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+f",
+		"command": "workbench.action.gotoSymbol"
+	},
+	{
+		"key": "ctrl+shift+o",
+		"command": "-workbench.action.gotoSymbol"
 	}
 ]
