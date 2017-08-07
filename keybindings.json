@@ -11,7 +11,7 @@
 		"when": "editorTextFocus"
 	},
 	{
-		"key": "ctrl+f",
+		"key": "ctrl+shift+f",
 		"command": "workbench.action.gotoSymbol"
 	},
 	{
