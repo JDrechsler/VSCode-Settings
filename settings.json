@@ -20,7 +20,7 @@
 	"editor.useTabStops": true,
 	"editor.wordWrap": "off",
 	"emmet.showAbbreviationSuggestions": true,
-	"emmet.showExpandedAbbreviation": "always",
+	"emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
 	"emmet.syntaxProfiles": {
 		"vue-html": "html",
 		"vue": "html"
@@ -31,7 +31,6 @@
 		"vue": "html",
 		"plaintext": "jade"
 	},
-	"emmet.useNewEmmet": false,
 	"extensions.autoUpdate": true,
 	"files.autoSave": "off",
 	"git.confirmSync": false,
@@ -45,12 +44,26 @@
 	"javascript.format.enable": true,
 	"javascript.format.placeOpenBraceOnNewLineForControlBlocks": false,
 	"javascript.format.placeOpenBraceOnNewLineForFunctions": false,
+	"path-autocomplete.extensionOnImport": true,
+	"path-autocomplete.triggerOutsideStrings": true,
+	"path-autocomplete.enableFolderTrailingSlash": true,
+	"path-autocomplete.excludedItems": {
+		"**/*.js": {
+			"when": "**/*.ts"
+		}, // ignore js files if i'm inside a ts file
+		"**/*.map": {
+			"when": "**"
+		}, // always ignore *.map files
+		"**/{.git,node_modules}": {
+			"when": "**"
+		} // always ignore .git and node_modules folders
+	},
 	"tsimporter.showNotifications": false,
 	"tsimporter.noStatusBar": true,
 	"tsimporter.preferRelative": true,
-	"typescript.check.tscVersion": false,
 	"typescript.referencesCodeLens.enabled": false,
 	"typescript.useCodeSnippetsOnMethodSuggest": false,
+	"vetur.validation.template": false,
 	"vsicons.presets.angular": false,
 	"vsicons.projectDetection.autoReload": true,
 	"window.zoomLevel": 1,
