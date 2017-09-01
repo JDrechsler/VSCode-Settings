@@ -63,6 +63,7 @@
 	"tsimporter.preferRelative": true,
 	"typescript.referencesCodeLens.enabled": false,
 	"typescript.useCodeSnippetsOnMethodSuggest": false,
+	"typescript.tsdk": "node_modules/typescript/lib",
 	"vetur.validation.template": false,
 	"vsicons.presets.angular": false,
 	"vsicons.projectDetection.autoReload": true,
