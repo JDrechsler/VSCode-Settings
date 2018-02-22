@@ -1,3 +1,7 @@
+## Update:
+Use new extension for uploading and downloading settings, extensions, keybindings from github gist
+https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing
+
 ## Settings File Locations
 Depending on your platform, the user settings file is located here:
 ```sh
