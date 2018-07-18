@@ -11,6 +11,8 @@ Linux $HOME/.config/Code/User/settings.json
 ```
 ## Extensions
 
+Located at: %USERPROFILE%\.vscode\extensions
+
 Workspace Recommended Extensions
 Often you have a set of extensions that makes working with a particular workspace or programming language more productive and you'd like to share this list with your team or colleagues. You can create a recommended list of extensions for a workspace with the Extensions: Configure Workspace Recommended Extensions command. This creates a extensions.json file located in the workspace .vscode folder where you can list extensions.
 
